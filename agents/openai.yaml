@@ -1,0 +1,5 @@
+interface:
+  display_name: "面板回归实证分析"
+  short_description: "专注面板回归 模型比较与相关检验 保留论文复现 交付中文注释Stata代码"
+  brand_color: "#0F766E"
+  default_prompt: "使用 $econ-empirical 根据我的面板数据和变量定义完成适用的面板回归与相关检验，交付逐步中文注释的Stata do、真实日志和结果；需要时另做论文复现核验。"
